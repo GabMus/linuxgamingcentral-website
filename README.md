@@ -5,11 +5,7 @@ First, clone the repository:
 
 `git clone https://github.com/linuxgamingcentral/website.git`
 
-Change into the `website` directory, then add the Terminal theme's submodules:
-
-`git submodule add -f https://github.com/panr/hugo-theme-terminal.git themes/terminal`
-
-After that you should be able to run the site locally (make sure you have the `hugo` package installed on your system before running):
+Change into the `website` directory. You should be able to run the site locally (make sure you have the `hugo` package installed on your system before running):
 
 `hugo server -D`
 
