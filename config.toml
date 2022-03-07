@@ -4,9 +4,6 @@ theme = "terminal"
 paginate = 5
 
 [params]
-  relativeURLs = true
-  uglyURLs = true
-  
   # dir name of your main content (default is `content/posts`).
   # the list of set content will show up on your index page (baseurl).
   contentTypeName = "posts"
@@ -84,10 +81,6 @@ paginate = 5
 
     [languages.en.menu]
       [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/about"
-      [[languages.en.menu.main]]
         identifier = "contact"
         name = "Contact"
         url = "/contact"
@@ -95,4 +88,3 @@ paginate = 5
         identifier = "recommended_content_creators"
         name = "Recommended Content Creators"
         url = "/recommended_content_creators"
-theme = "terminal"

@@ -11,7 +11,7 @@ showFullContent = false
 readingTime = false
 draft = false
 +++
-The web server is now live. HTTPS is enabled by default (man, what a PITA it was to get that set up), and you should be able to add comments to posts via Cactus Comments (you may need a Matrix account in order to comment, however).
+The web server is now live. HTTPS is enabled by default (man, what a PITA it was to get that set up), and you should be able to add comments to posts via Cactus Comments (no account, no approval required).
 
 As noted in the [About](https://linuxgamingcentral.com/about/) section of the site, Linux Gaming Central is powered by [Hugo](https://gohugo.io/). The Terminal theme is brought to you by [panr](https://github.com/panr/hugo-theme-terminal). Web site source code is available on [GitHub](https://github.com/linuxgamingcentral/website) and licensed under GPLv3.
 
