@@ -5,7 +5,7 @@ First, clone the repository:
 
 `git clone https://github.com/linuxgamingcentral/website.git`
 
-Change into the `website` directory, then clone the Terminal theme's submodules:
+Change into the `website` directory, then add the Terminal theme's submodules:
 
 `git submodule add -f https://github.com/panr/hugo-theme-terminal.git themes/terminal`
 
