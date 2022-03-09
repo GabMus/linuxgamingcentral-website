@@ -1,5 +1,5 @@
 +++
-title = "{{ replace .Name "-" " " | title }}"
+title = ""
 date = {{ .Date }}
 author = "Mark Dougherty"
 authorTwitter = "" #do not include @
@@ -9,7 +9,7 @@ keywords = ["", ""]
 description = ""
 showFullContent = false
 readingTime = false
-draft = true
+draft = false
 +++
 
 
