@@ -10,6 +10,7 @@ description = ""
 showFullContent = false
 readingTime = false
 draft = false
+comments = true
 +++
 One of the contributers for the [ChimeraOS](https://chimeraos.org) distribution got in touch with me yesterday and sent a link to his GitHub project: [xPlayerOS](https://github.com/ruineka/xPlayerOS). This is a couple of bash scripts to help those who have an [Intel-based Onexplayer](https://onexplayerstore.com/products/new-onexplayer-mini-intel-i7-1195g7) handheld get everything they need to get set up and running on Linux. The README mentions the script was specifically tested on Pop!_OS 21.10, but it should theoretically work across any Ubuntu-based distro, and maybe even Debian.
 
@@ -20,5 +21,3 @@ When running the `xPlayerOS_Installer.sh` script, the user has the option of add
 The `SteamOSUI_ENABLE.sh` script will transform Pop! OS (or whatever distro you're running) into a console-like experience. It just boots to Steam with the new Steam Deck interface. However, it's not recommended, as the writer of the script says he experienced touchscreen issues, and is unable to use the desktop. Once this script is run and you no longer wish to use it, simply run the `SteamOSUI_DISABLE.sh` script.
 
 Pretty neat to see the community getting together to make gaming on Linux (specifically handhelds in this case) easier. I haven't tested the script myself but I'm thinking it might work on the [GPD Win 3](https://boilingsteam.com/gpd-win-3-the-tide-me-over-for-the-steam-deck/) as well, since it's basically using the same processor as the OXP (i7-1165G7 vs. i7-1195G7). And the beauty of open-source is, if the script doesn't work or you want to make enhancements to it, you can just grab the scripts, fork them, then create a pull request.
-
-{{< chat cactus-comments >}}

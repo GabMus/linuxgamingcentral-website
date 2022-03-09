@@ -10,6 +10,7 @@ description = ""
 showFullContent = false
 readingTime = false
 draft = false
+comments = true
 +++
 I'm sure most of you reading this post are aware of the new SteamOS 3.0 that's shipping by default with the Steam Deck, with that much-needed interface overhaul for Big Picture Mode (also, it's Valve's first product to hit the number 3). Well, thanks to Reddit user **GB_2_**, [it's possible to use the new Deck UI across any Windows or Linux desktop](https://www.reddit.com/r/SteamDeck/comments/t57l4t/how_to_get_the_steam_deck_ui_on_windowsany_linux/?utm_source=share&utm_medium=web2x&context=3). For Linux, all you literally have to do is:
 1. Navigate to `~/.steam/steam/package`
@@ -35,5 +36,3 @@ Some other screenshots on my desktop client:
 ![controller input screen](/images/deckui/controller_input.png)
 
 ![keyboard](/images/deckui/keyboard.png)
-
-{{< chat cactus-comments >}}

@@ -10,6 +10,7 @@ description = ""
 showFullContent = false
 readingTime = false
 draft = false
+comments = true
 +++
 The web server is now live. HTTPS is enabled by default (man, what a PITA it was to get that set up), and you should be able to add comments to posts via Cactus Comments (no account, no approval required).
 
@@ -27,5 +28,3 @@ Within this week or next I'm hoping to have the following content released, besi
 As time goes on I may incorporate a Discord channel and a newsletter subscription feed, but at the moment I'm trying to keep things simple and make my workload as light as possible.
 
 In the meantime, if you got feedback, let me know! I'm eager to hear your thoughts. You can also talk to me in private by [sending an email](https://linuxgamingcentral.com/contact/).
-
-{{< chat cactus-comments >}}

@@ -10,6 +10,7 @@ description = ""
 showFullContent = false
 readingTime = false
 draft = false
+comments = true
 +++
 So I had contacted [Feral Interactive](https://www.feralinteractive.com/en/) -- the Linux daddy when it comes to bringing games over to our beloved platform -- a few days ago and had asked them if they'd be up for a Q&A. They declined (at least, for the time being), but they did tell me [*Total War: Warhammer III*](https://store.steampowered.com/app/1142710/Total_War_WARHAMMER_III/) is coming to Linux in the spring. That's actually good news: I had thought they had all but given up on porting decent titles to Linux, due to the advent of Proton. The last time we got a port from them was *Shadow of the Tomb Raider* in 2018.
 
@@ -21,5 +22,3 @@ They also told me this, regarding support for the Steam Deck for their ported ti
 It's a bit of a bummer, but I can see the reasoning behind it. Proton has reduced the demand for native ports and has drastically reduced the workload for those who wish to support their game on the Deck.
 
 Also, I don't really think it's a great idea to be supporting only Ubuntu at this point. Ubuntu suffers from [old packages, proprietary universal packaging apps, and a sloth of other problems](https://www.youtube.com/watch?v=lr8iMnuW6aw). Whelp, I guess Proton comes to the rescue again here for other distros.
-
-{{< chat cactus-comments >}}
